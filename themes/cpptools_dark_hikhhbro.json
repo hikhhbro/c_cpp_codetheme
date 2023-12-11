@@ -447,19 +447,13 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#ffff00"
+        "foreground": "#f2f081"
 			}
 		},
 		{
 			"scope": "entity.name.function.operator",
 			"settings": {
 				"foreground": "#B4B4B4"
-			}
-		},
-		{
-			"scope": "entity.name.function.preprocessor",
-			"settings": {
-				"foreground": "#ef4637"
 			}
 		},
 		{
